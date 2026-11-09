@@ -1,0 +1,28 @@
+{
+  "no": 17,
+  "type": "lesson",
+  "title": "行 / 工作",
+  "words": [
+    "train",
+    "taxi",
+    "driver",
+    "ride",
+    "catch",
+    "miss",
+    "transfer",
+    "station",
+    "platform",
+    "dependency",
+    "contingency",
+    "escalate",
+    "delegate",
+    "streamline",
+    "optimize",
+    "allocate"
+  ],
+  "count": 16,
+  "mp3": "vocab-17.mp3",
+  "bytes": 3519164,
+  "duration": 586.4,
+  "voice": "en-US-AndrewNeural"
+}
