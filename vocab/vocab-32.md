@@ -1,0 +1,119 @@
+# 第 32 期 · 复盘 · 第 4 周
+
+- 覆盖：第 25、26、27、28、29、30、31 期，共 114 词
+- 时长：15 分 3 秒
+
+- agree　`/əˈɡriː/`　v.  同意
+- disagree　`/ˌdɪsəˈɡriː/`　v.  不同意
+- align　`/əˈlaɪn/`　v.  达成一致
+- approve　`/əˈpruːv/`　v.  批准
+- feedback　`/ˈfiːdbæk/`　n.  反馈
+- revise　`/rɪˈvaɪz/`　v.  修改
+- draft　`/dræft/`　n./v.  草稿；起草
+- submit　`/səbˈmɪt/`　v.  提交
+- deliver　`/dɪˈlɪvər/`　v.  交付
+- concise　`/kənˈsaɪs/`　adj.  简洁的
+- articulate　`/ɑːrˈtɪkjələt/`　adj.  表达清晰的
+- pace　`/peɪs/`　n.  节奏
+- eye contact　``　n.  目光交流
+- body language　``　n.  肢体语言
+- rehearse　`/rɪˈhɜːrs/`　v.  排练
+- improvise　`/ˈɪmprəvaɪz/`　v.  即兴发挥
+- on track　``　phr.  进展顺利
+- behind schedule　``　phr.  进度落后
+- work overtime　``　phr.  加班
+- take a day off　``　phr.  请一天假
+- sick leave　``　n.  病假
+- remote　`/rɪˈmoʊt/`　adj.  远程的
+- work from home　``　phr.  居家办公
+- workload　`/ˈwɜːrkloʊd/`　n.  工作量
+- handle　`/ˈhændəl/`　v.  处理
+- jargon　`/ˈdʒɑːrɡən/`　n.  行话；术语
+- analogy　`/əˈnælədʒi/`　n.  类比
+- dry run　``　n.  预演
+- report　`/rɪˈpɔːrt/`　n./v.  报告；汇报
+- metric　`/ˈmetrɪk/`　n.  指标
+- KPI　`/ˌkeɪ piː ˈaɪ/`　n.  关键绩效指标
+- benchmark　`/ˈbentʃmɑːrk/`　n.  基准；对标
+- sort out　``　phr.  解决；理清
+- figure out　``　phr.  弄清楚
+- run into a problem　``　phr.  遇到问题
+- no worries　``　phr.  没问题
+- sounds good　``　phr.  听起来不错
+- get back to you　``　phr.  之后回复你
+- keep me posted　``　phr.  随时告诉我
+- in charge of　``　phr.  负责
+- How's it going?　``　phr.  最近怎么样？
+- baseline　`/ˈbeɪslaɪn/`　n.  基线
+- quarter　`/ˈkwɔːrtər/`　n.  季度
+- year-over-year　``　adj.  同比的
+- trajectory　`/trəˈdʒektəri/`　n.  走势；轨迹
+- surge　`/sɜːrdʒ/`　v./n.  激增
+- decline　`/dɪˈklaɪn/`　v./n.  下降
+- plateau　`/plæˈtoʊ/`　v./n.  趋于平稳
+- What's up?　``　phr.  最近怎样？/ 怎么了？
+- Long time no see　``　phr.  好久不见
+- catch up　``　phr.  叙旧；聊近况
+- hang out　``　phr.  一起玩；待在一起
+- keep in touch　``　phr.  保持联系
+- take care　``　phr.  保重
+- thanks a lot　``　phr.  非常感谢
+- no problem　``　phr.  没问题；不客气
+- you're welcome　``　phr.  不客气
+- fluctuate　`/ˈflʌktʃueɪt/`　v.  波动
+- substantial　`/səbˈstænʃəl/`　adj.  大幅的；可观的
+- marginal　`/ˈmɑːrdʒɪnəl/`　adj.  微小的
+- account for　``　phr.  占（比例）
+- attribute to　``　phr.  归因于
+- forecast　`/ˈfɔːrkæst/`　n./v.  预测
+- variance　`/ˈveriəns/`　n.  差异；偏差
+- excuse me　``　phr.  打扰一下；不好意思
+- sorry about that　``　phr.  抱歉啊
+- my bad　``　phr.  我的错（口语）
+- Do you mind　``　phr.  你介意……吗
+- would you like　``　phr.  你想要……吗
+- by the way　``　phr.  顺便说一句
+- anyway　`/ˈeniweɪ/`　adv.  总之；不管怎样
+- actually　`/ˈæktʃuəli/`　adv.  其实
+- for sure　``　phr.  当然；肯定
+- driver　`/ˈdraɪvər/`　n.  驱动因素
+- root cause　``　n.  根本原因
+- actionable　`/ˈækʃənəbəl/`　adj.  可执行的
+- caveat　`/ˈkæviæt/`　n.  注意事项；前提
+- bottom line　``　n.  核心结论
+- going forward　``　phr.  今后
+- panel　`/ˈpænəl/`　n.  座谈小组；论坛
+- definitely　`/ˈdefɪnətli/`　adv.  肯定；绝对
+- sounds like a plan　``　phr.  就这么定
+- I'm in　``　phr.  我加入
+- count me in　``　phr.  算我一个
+- It's up to you　``　phr.  你决定
+- whatever works　``　phr.  怎么方便怎么来
+- no big deal　``　phr.  没什么大不了
+- never mind　``　phr.  算了；没事
+- I see　``　phr.  我明白了
+- moderator　`/ˈmɑːdəreɪtər/`　n.  主持人
+- participant　`/pɑːrˈtɪsɪpənt/`　n.  参与者
+- perspective　`/pərˈspektɪv/`　n.  视角
+- standpoint　`/ˈstændpɔɪnt/`　n.  立场；角度
+- insight　`/ˈɪnsaɪt/`　n.  洞察
+- constructive　`/kənˈstrʌktɪv/`　adj.  建设性的
+- candid　`/ˈkændɪd/`　adj.  坦率的
+- got it　``　phr.  懂了
+- fair enough　``　phr.  有道理；可以接受
+- that makes sense　``　phr.  说得通
+- to be honest　``　phr.  说实话
+- kind of　``　phr.  有点；算是
+- pretty much　``　phr.  差不多；基本上
+- see you around　``　phr.  回头见
+- nuance　`/ˈnuːɑːns/`　n.  细微差别
+- counterargument　`/ˈkaʊntərˌɑːrɡjəmənt/`　n.  反方论点
+- acknowledge　`/əkˈnɑːlɪdʒ/`　v.  承认；认可
+- elaborate　`/ɪˈlæbəreɪt/`　v.  详细阐述
+- chime in　``　phr.  插话；补充
+- weigh in　``　phr.  发表意见
+- play devil's advocate　``　phr.  故意唱反调以检验观点
+- common ground　``　n.  共同点
+- open floor　``　n.  自由发言
+- follow-up question　``　n.  追问
+- with that said　``　phr.  话虽如此
