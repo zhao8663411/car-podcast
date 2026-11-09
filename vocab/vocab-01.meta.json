@@ -1,0 +1,28 @@
+{
+  "no": 1,
+  "type": "lesson",
+  "title": "吃",
+  "words": [
+    "eat",
+    "hungry",
+    "starving",
+    "full",
+    "thirsty",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "snack",
+    "cuisine",
+    "flavor",
+    "texture",
+    "seasoning",
+    "appetizer",
+    "main course",
+    "dessert"
+  ],
+  "count": 16,
+  "mp3": "vocab-01.mp3",
+  "bytes": 3756188,
+  "duration": 625.9,
+  "voice": "en-US-JennyNeural"
+}
