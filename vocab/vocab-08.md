@@ -1,0 +1,117 @@
+# 第 08 期 · 复盘 · 第 1 周
+
+- 覆盖：第 1、2、3、4、5、6、7 期，共 112 词
+- 时长：14 分 23 秒
+
+- eat　`/iːt/`　v.  吃
+- hungry　`/ˈhʌŋɡri/`　adj.  饿的
+- starving　`/ˈstɑːrvɪŋ/`　adj.  饿极了
+- full　`/fʊl/`　adj.  吃饱的
+- thirsty　`/ˈθɜːrsti/`　adj.  渴的
+- breakfast　`/ˈbrekfəst/`　n.  早餐
+- lunch　`/lʌntʃ/`　n.  午餐
+- dinner　`/ˈdɪnər/`　n.  晚餐
+- snack　`/snæk/`　n.  零食；小吃
+- cuisine　`/kwɪˈziːn/`　n.  菜系；烹饪风格
+- flavor　`/ˈfleɪvər/`　n.  风味；味道
+- texture　`/ˈtekstʃər/`　n.  口感；质地
+- seasoning　`/ˈsiːzənɪŋ/`　n.  调味；调料
+- appetizer　`/ˈæpɪtaɪzər/`　n.  开胃菜
+- main course　``　n.  主菜
+- dessert　`/dɪˈzɜːrt/`　n.  甜点
+- meal　`/miːl/`　n.  一顿饭
+- takeout　`/ˈteɪkaʊt/`　n.  外卖（食物）
+- delivery　`/dɪˈlɪvəri/`　n.  配送；外卖
+- order　`/ˈɔːrdər/`　v./n.  点餐；订单
+- menu　`/ˈmenjuː/`　n.  菜单
+- special　`/ˈspeʃəl/`　n.  今日特餐；推荐菜
+- recommend　`/ˌrekəˈmend/`　v.  推荐
+- try　`/traɪ/`　v.  尝一尝
+- taste　`/teɪst/`　v./n.  尝起来；味道
+- portion　`/ˈpɔːrʃən/`　n.  份量
+- hearty　`/ˈhɑːrti/`　adj.  丰盛的；管饱的
+- bland　`/blænd/`　adj.  淡而无味的
+- savory　`/ˈseɪvəri/`　adj.  咸香的
+- crispy　`/ˈkrɪspi/`　adj.  脆的
+- tender　`/ˈtendər/`　adj.  嫩的
+- rich　`/rɪtʃ/`　adj.  浓郁的
+- delicious　`/dɪˈlɪʃəs/`　adj.  美味的
+- spicy　`/ˈspaɪsi/`　adj.  辣的
+- sweet　`/swiːt/`　adj.  甜的
+- salty　`/ˈsɔːlti/`　adj.  咸的
+- fresh　`/freʃ/`　adj.  新鲜的
+- plain　`/pleɪn/`　adj.  清淡的；不加料的
+- vegetarian　`/ˌvedʒəˈteriən/`　n./adj.  素食者；素的
+- allergic　`/əˈlɜːrdʒɪk/`　adj.  过敏的
+- bill　`/bɪl/`　n.  账单
+- aromatic　`/ˌærəˈmætɪk/`　adj.  香气足的
+- indulge　`/ɪnˈdʌldʒ/`　v.  尽情享受；放纵一下
+- craving　`/ˈkreɪvɪŋ/`　n.  强烈的想吃
+- palate　`/ˈpælət/`　n.  口味；味觉
+- pairing　`/ˈperɪŋ/`　n.  搭配（尤指餐酒）
+- hospitality　`/ˌhɑːspɪˈtæləti/`　n.  好客；招待
+- treat　`/triːt/`　n./v.  请客；款待
+- check　`/tʃek/`　n.  账单（美式）
+- split the bill　``　phr.  AA 制；平摊账单
+- tip　`/tɪp/`　n./v.  小费；给小费
+- waiter　`/ˈweɪtər/`　n.  服务员
+- reservation　`/ˌrezərˈveɪʃən/`　n.  预订
+- book a table　``　phr.  订位
+- for here or to go　``　phr.  堂食还是带走
+- refill　`/ˈriːfɪl/`　n./v.  续杯
+- straw　`/strɔː/`　n.  吸管
+- foodie　`/ˈfuːdi/`　n.  吃货；美食爱好者
+- authentic　`/ɔːˈθentɪk/`　adj.  正宗的
+- overrated　`/ˌoʊvərˈreɪtɪd/`　adj.  被高估的；名过其实的
+- go Dutch　``　phr.  各付各的
+- style　`/staɪl/`　n.  风格
+- wardrobe　`/ˈwɔːrdroʊb/`　n.  衣橱；全部衣物
+- trend　`/trend/`　n.  趋势；流行
+- napkin　`/ˈnæpkɪn/`　n.  餐巾纸
+- leftovers　`/ˈleftoʊvərz/`　n.  剩菜
+- doggy bag　``　phr.  打包袋
+- microwave　`/ˈmaɪkrəweɪv/`　v.  用微波炉加热
+- cook　`/kʊk/`　v.  做饭
+- recipe　`/ˈresəpi/`　n.  食谱；做法
+- grab a bite　``　phr.  随便吃点
+- eat out　``　phr.  出去吃
+- groceries　`/ˈɡroʊsəriz/`　n.  食品杂货
+- classic　`/ˈklæsɪk/`　adj.  经典的；不会过时的
+- versatile　`/ˈvɜːrsətəl/`　adj.  百搭的；多用途的
+- tailored　`/ˈteɪlərd/`　adj.  剪裁合身的；定制的
+- elegant　`/ˈeləɡənt/`　adj.  优雅的
+- polished　`/ˈpɑːlɪʃt/`　adj.  精致的；干练的
+- smart casual　``　phr.  商务休闲
+- dress code　``　n.  着装要求
+- clothes　`/kloʊðz/`　n.  衣服
+- outfit　`/ˈaʊtfɪt/`　n.  一套衣服
+- wear　`/wer/`　v.  穿；戴
+- put on　``　phr.  穿上
+- take off　``　phr.  脱下
+- try on　``　phr.  试穿
+- fit　`/fɪt/`　v.  合身
+- size　`/saɪz/`　n.  尺码
+- medium　`/ˈmiːdiəm/`　n./adj.  中号
+- accessory　`/əkˈsesəri/`　n.  配饰
+- fabric　`/ˈfæbrɪk/`　n.  面料
+- breathable　`/ˈbriːðəbəl/`　adj.  透气的
+- flattering　`/ˈflætərɪŋ/`　adj.  显身材的；衬人的
+- minimalist　`/ˈmɪnɪməlɪst/`　adj.  极简的
+- stand out　``　phr.  出众；显眼
+- go with　``　phr.  与……搭配
+- tight　`/taɪt/`　adj.  紧的
+- loose　`/luːs/`　adj.  宽松的
+- comfortable　`/ˈkʌmftərbəl/`　adj.  舒服的
+- casual　`/ˈkæʒuəl/`　adj.  休闲的
+- formal　`/ˈfɔːrməl/`　adj.  正式的
+- dress up　``　phr.  打扮；穿正装
+- shirt　`/ʃɜːrt/`　n.  衬衫
+- T-shirt　`/ˈtiː ʃɜːrt/`　n.  T 恤
+- jacket　`/ˈdʒækɪt/`　n.  夹克；外套
+- dress for the occasion　``　phr.  按场合穿衣
+- look sharp　``　phr.  看起来很精神、很利落
+- out of style　``　phr.  过时了
+- spacious　`/ˈspeɪʃəs/`　adj.  宽敞的
+- cozy　`/ˈkoʊzi/`　adj.  温馨舒适的
+- furnished　`/ˈfɜːrnɪʃt/`　adj.  带家具的
+- utilities included　``　phr.  含水电费
