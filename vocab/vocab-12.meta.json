@@ -1,0 +1,28 @@
+{
+  "no": 12,
+  "type": "lesson",
+  "title": "住 / 行",
+  "words": [
+    "deposit",
+    "utilities",
+    "furniture",
+    "sofa",
+    "bed",
+    "mattress",
+    "closet",
+    "shelf",
+    "drawer",
+    "itinerary",
+    "layover",
+    "boarding pass",
+    "carry-on",
+    "check in luggage",
+    "customs",
+    "terminal"
+  ],
+  "count": 16,
+  "mp3": "vocab-12.mp3",
+  "bytes": 3787580,
+  "duration": 631.2,
+  "voice": "en-US-AriaNeural"
+}
