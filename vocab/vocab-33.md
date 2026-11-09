@@ -1,0 +1,455 @@
+# 第 33 期 · 总复盘 · 全书
+
+- 覆盖：第 1、2、3、4、5、6、7、9、10、11、12、13、14、15、17、18、19、20、21、22、23、25、26、27、28、29、30、31 期，共 450 词
+- 时长：41 分 34 秒
+
+- eat　`/iːt/`　v.  吃
+- hungry　`/ˈhʌŋɡri/`　adj.  饿的
+- starving　`/ˈstɑːrvɪŋ/`　adj.  饿极了
+- full　`/fʊl/`　adj.  吃饱的
+- thirsty　`/ˈθɜːrsti/`　adj.  渴的
+- breakfast　`/ˈbrekfəst/`　n.  早餐
+- lunch　`/lʌntʃ/`　n.  午餐
+- dinner　`/ˈdɪnər/`　n.  晚餐
+- snack　`/snæk/`　n.  零食；小吃
+- cuisine　`/kwɪˈziːn/`　n.  菜系；烹饪风格
+- flavor　`/ˈfleɪvər/`　n.  风味；味道
+- texture　`/ˈtekstʃər/`　n.  口感；质地
+- seasoning　`/ˈsiːzənɪŋ/`　n.  调味；调料
+- appetizer　`/ˈæpɪtaɪzər/`　n.  开胃菜
+- main course　``　n.  主菜
+- dessert　`/dɪˈzɜːrt/`　n.  甜点
+- meal　`/miːl/`　n.  一顿饭
+- takeout　`/ˈteɪkaʊt/`　n.  外卖（食物）
+- delivery　`/dɪˈlɪvəri/`　n.  配送；外卖
+- order　`/ˈɔːrdər/`　v./n.  点餐；订单
+- menu　`/ˈmenjuː/`　n.  菜单
+- special　`/ˈspeʃəl/`　n.  今日特餐；推荐菜
+- recommend　`/ˌrekəˈmend/`　v.  推荐
+- try　`/traɪ/`　v.  尝一尝
+- taste　`/teɪst/`　v./n.  尝起来；味道
+- portion　`/ˈpɔːrʃən/`　n.  份量
+- hearty　`/ˈhɑːrti/`　adj.  丰盛的；管饱的
+- bland　`/blænd/`　adj.  淡而无味的
+- savory　`/ˈseɪvəri/`　adj.  咸香的
+- crispy　`/ˈkrɪspi/`　adj.  脆的
+- tender　`/ˈtendər/`　adj.  嫩的
+- rich　`/rɪtʃ/`　adj.  浓郁的
+- delicious　`/dɪˈlɪʃəs/`　adj.  美味的
+- spicy　`/ˈspaɪsi/`　adj.  辣的
+- sweet　`/swiːt/`　adj.  甜的
+- salty　`/ˈsɔːlti/`　adj.  咸的
+- fresh　`/freʃ/`　adj.  新鲜的
+- plain　`/pleɪn/`　adj.  清淡的；不加料的
+- vegetarian　`/ˌvedʒəˈteriən/`　n./adj.  素食者；素的
+- allergic　`/əˈlɜːrdʒɪk/`　adj.  过敏的
+- bill　`/bɪl/`　n.  账单
+- aromatic　`/ˌærəˈmætɪk/`　adj.  香气足的
+- indulge　`/ɪnˈdʌldʒ/`　v.  尽情享受；放纵一下
+- craving　`/ˈkreɪvɪŋ/`　n.  强烈的想吃
+- palate　`/ˈpælət/`　n.  口味；味觉
+- pairing　`/ˈperɪŋ/`　n.  搭配（尤指餐酒）
+- hospitality　`/ˌhɑːspɪˈtæləti/`　n.  好客；招待
+- treat　`/triːt/`　n./v.  请客；款待
+- check　`/tʃek/`　n.  账单（美式）
+- split the bill　``　phr.  AA 制；平摊账单
+- tip　`/tɪp/`　n./v.  小费；给小费
+- waiter　`/ˈweɪtər/`　n.  服务员
+- reservation　`/ˌrezərˈveɪʃən/`　n.  预订
+- book a table　``　phr.  订位
+- for here or to go　``　phr.  堂食还是带走
+- refill　`/ˈriːfɪl/`　n./v.  续杯
+- straw　`/strɔː/`　n.  吸管
+- foodie　`/ˈfuːdi/`　n.  吃货；美食爱好者
+- authentic　`/ɔːˈθentɪk/`　adj.  正宗的
+- overrated　`/ˌoʊvərˈreɪtɪd/`　adj.  被高估的；名过其实的
+- go Dutch　``　phr.  各付各的
+- style　`/staɪl/`　n.  风格
+- wardrobe　`/ˈwɔːrdroʊb/`　n.  衣橱；全部衣物
+- trend　`/trend/`　n.  趋势；流行
+- napkin　`/ˈnæpkɪn/`　n.  餐巾纸
+- leftovers　`/ˈleftoʊvərz/`　n.  剩菜
+- doggy bag　``　phr.  打包袋
+- microwave　`/ˈmaɪkrəweɪv/`　v.  用微波炉加热
+- cook　`/kʊk/`　v.  做饭
+- recipe　`/ˈresəpi/`　n.  食谱；做法
+- grab a bite　``　phr.  随便吃点
+- eat out　``　phr.  出去吃
+- groceries　`/ˈɡroʊsəriz/`　n.  食品杂货
+- classic　`/ˈklæsɪk/`　adj.  经典的；不会过时的
+- versatile　`/ˈvɜːrsətəl/`　adj.  百搭的；多用途的
+- tailored　`/ˈteɪlərd/`　adj.  剪裁合身的；定制的
+- elegant　`/ˈeləɡənt/`　adj.  优雅的
+- polished　`/ˈpɑːlɪʃt/`　adj.  精致的；干练的
+- smart casual　``　phr.  商务休闲
+- dress code　``　n.  着装要求
+- clothes　`/kloʊðz/`　n.  衣服
+- outfit　`/ˈaʊtfɪt/`　n.  一套衣服
+- wear　`/wer/`　v.  穿；戴
+- put on　``　phr.  穿上
+- take off　``　phr.  脱下
+- try on　``　phr.  试穿
+- fit　`/fɪt/`　v.  合身
+- size　`/saɪz/`　n.  尺码
+- medium　`/ˈmiːdiəm/`　n./adj.  中号
+- accessory　`/əkˈsesəri/`　n.  配饰
+- fabric　`/ˈfæbrɪk/`　n.  面料
+- breathable　`/ˈbriːðəbəl/`　adj.  透气的
+- flattering　`/ˈflætərɪŋ/`　adj.  显身材的；衬人的
+- minimalist　`/ˈmɪnɪməlɪst/`　adj.  极简的
+- stand out　``　phr.  出众；显眼
+- go with　``　phr.  与……搭配
+- tight　`/taɪt/`　adj.  紧的
+- loose　`/luːs/`　adj.  宽松的
+- comfortable　`/ˈkʌmftərbəl/`　adj.  舒服的
+- casual　`/ˈkæʒuəl/`　adj.  休闲的
+- formal　`/ˈfɔːrməl/`　adj.  正式的
+- dress up　``　phr.  打扮；穿正装
+- shirt　`/ʃɜːrt/`　n.  衬衫
+- T-shirt　`/ˈtiː ʃɜːrt/`　n.  T 恤
+- jacket　`/ˈdʒækɪt/`　n.  夹克；外套
+- dress for the occasion　``　phr.  按场合穿衣
+- look sharp　``　phr.  看起来很精神、很利落
+- out of style　``　phr.  过时了
+- spacious　`/ˈspeɪʃəs/`　adj.  宽敞的
+- cozy　`/ˈkoʊzi/`　adj.  温馨舒适的
+- furnished　`/ˈfɜːrnɪʃt/`　adj.  带家具的
+- utilities included　``　phr.  含水电费
+- coat　`/koʊt/`　n.  大衣
+- sweater　`/ˈswetər/`　n.  毛衣
+- jeans　`/dʒiːnz/`　n.  牛仔裤
+- pants　`/pænts/`　n.  裤子
+- shoes　`/ʃuːz/`　n.  鞋
+- sneakers　`/ˈsniːkərz/`　n.  运动鞋
+- socks　`/sɑːks/`　n.  袜子
+- cap　`/kæp/`　n.  帽子（鸭舌帽）
+- scarf　`/skɑːrf/`　n.  围巾
+- maintenance　`/ˈmeɪntənəns/`　n.  维护；维修
+- amenity　`/əˈmenəti/`　n.  配套设施
+- complex　`/ˈkɑːmpleks/`　n.  小区；建筑群
+- proximity　`/prɑːkˈsɪməti/`　n.  邻近；接近
+- within walking distance　``　phr.  步行可达
+- vibrant　`/ˈvaɪbrənt/`　adj.  有活力的
+- residential　`/ˌrezɪˈdenʃəl/`　adj.  住宅的
+- dress　`/dres/`　n.  连衣裙
+- suit　`/suːt/`　n.  西装
+- tie　`/taɪ/`　n.  领带
+- laundry　`/ˈlɔːndri/`　n.  要洗的衣物；洗衣
+- iron　`/ˈaɪərn/`　v.  熨
+- stain　`/steɪn/`　n.  污渍
+- refund　`/ˈriːfʌnd/`　n./v.  退款
+- exchange　`/ɪksˈtʃeɪndʒ/`　v.  换货
+- receipt　`/rɪˈsiːt/`　n.  收据
+- upscale　`/ˈʌpskeɪl/`　adj.  高档的
+- run-down　`/ˌrʌnˈdaʊn/`　adj.  破旧的
+- renovate　`/ˈrenəveɪt/`　v.  翻新；装修
+- clutter　`/ˈklʌtər/`　n.  杂物；凌乱
+- declutter　`/diːˈklʌtər/`　v.  清理杂物
+- storage　`/ˈstɔːrɪdʒ/`　n.  储物空间
+- insulation　`/ˌɪnsəˈleɪʃən/`　n.  隔音；保温
+- on sale　``　phr.  打折
+- shop online　``　phr.  网购
+- apartment　`/əˈpɑːrtmənt/`　n.  公寓
+- flat　`/flæt/`　n.  公寓（英式）
+- rent　`/rent/`　n./v.  租金；租
+- landlord　`/ˈlændlɔːrd/`　n.  房东
+- tenant　`/ˈtenənt/`　n.  租客
+- roommate　`/ˈruːmmeɪt/`　n.  室友
+- lease　`/liːs/`　n.  租约
+- ventilation　`/ˌventəˈleɪʃən/`　n.  通风
+- plumbing　`/ˈplʌmɪŋ/`　n.  管道系统
+- property management　``　n.  物业
+- sublet　`/ˈsʌblet/`　v.  转租
+- housewarming　`/ˈhaʊswɔːrmɪŋ/`　n.  乔迁聚会
+- settle in　``　phr.  安顿下来；适应
+- noise complaint　``　n.  噪音投诉
+- deposit　`/dɪˈpɑːzɪt/`　n.  押金
+- utilities　`/juːˈtɪlətiz/`　n.  水电等费用
+- furniture　`/ˈfɜːrnɪtʃər/`　n.  家具
+- sofa　`/ˈsoʊfə/`　n.  沙发
+- bed　`/bed/`　n.  床
+- mattress　`/ˈmætrəs/`　n.  床垫
+- closet　`/ˈklɑːzɪt/`　n.  衣柜
+- shelf　`/ʃelf/`　n.  架子
+- drawer　`/drɔːr/`　n.  抽屉
+- itinerary　`/aɪˈtɪnəreri/`　n.  行程安排
+- layover　`/ˈleɪoʊvər/`　n.  中转停留
+- boarding pass　``　n.  登机牌
+- carry-on　`/ˈkæri ɑːn/`　n.  随身行李
+- check in luggage　``　phr.  托运行李
+- customs　`/ˈkʌstəmz/`　n.  海关
+- terminal　`/ˈtɜːrmɪnəl/`　n.  航站楼
+- desk　`/desk/`　n.  书桌
+- lamp　`/læmp/`　n.  台灯
+- curtain　`/ˈkɜːrtən/`　n.  窗帘
+- carpet　`/ˈkɑːrpɪt/`　n.  地毯
+- balcony　`/ˈbælkəni/`　n.  阳台
+- elevator　`/ˈelɪveɪtər/`　n.  电梯
+- stairs　`/sterz/`　n.  楼梯
+- neighbor　`/ˈneɪbər/`　n.  邻居
+- neighborhood　`/ˈneɪbərhʊd/`　n.  街区；社区
+- jet lag　``　n.  时差反应
+- shuttle　`/ˈʃʌtəl/`　n.  摆渡车；班车
+- round trip　``　n.  往返行程
+- one-way　`/ˌwʌnˈweɪ/`　adj.  单程的
+- reimburse　`/ˌriːɪmˈbɜːrs/`　v.  报销
+- expense report　``　n.  报销单
+- accommodation　`/əˌkɑːməˈdeɪʃən/`　n.  住宿
+- move in　``　phr.  搬进来
+- move out　``　phr.  搬走
+- tidy up　``　phr.  收拾整洁
+- clean up　``　phr.  打扫
+- trash　`/træʃ/`　n.  垃圾
+- take out the trash　``　phr.  倒垃圾
+- fix　`/fɪks/`　v.  修理
+- plumber　`/ˈplʌmər/`　n.  水管工
+- leak　`/liːk/`　v./n.  漏水
+- carpool　`/ˈkɑːrpuːl/`　v./n.  拼车
+- congestion　`/kənˈdʒestʃən/`　n.  拥堵
+- toll　`/toʊl/`　n.  过路费
+- detour　`/ˈdiːtʊr/`　n.  绕行路线
+- pull over　``　phr.  靠边停车
+- give someone a lift　``　phr.  捎某人一程
+- en route　`/ɑːn ˈruːt/`　phr.  在途中
+- air conditioning　`/er kənˈdɪʃənɪŋ/`　n.  空调
+- heater　`/ˈhiːtər/`　n.  暖气；加热器
+- power outage　``　n.  停电
+- wifi　`/ˈwaɪfaɪ/`　n.  无线网
+- quiet　`/ˈkwaɪət/`　adj.  安静的
+- noisy　`/ˈnɔɪzi/`　adj.  吵的
+- commute　`/kəˈmjuːt/`　v./n.  通勤
+- subway　`/ˈsʌbweɪ/`　n.  地铁
+- bus　`/bʌs/`　n.  公交车
+- get around　``　phr.  出行；四处走动
+- stakeholder　`/ˈsteɪkhoʊldər/`　n.  利益相关方
+- deliverable　`/dɪˈlɪvərəbəl/`　n.  交付物
+- milestone　`/ˈmaɪlstoʊn/`　n.  里程碑
+- scope　`/skoʊp/`　n.  范围
+- bandwidth　`/ˈbændwɪdθ/`　n.  精力；可投入的时间
+- bottleneck　`/ˈbɑːtəlnek/`　n.  瓶颈
+- train　`/treɪn/`　n.  火车
+- taxi　`/ˈtæksi/`　n.  出租车
+- driver　`/ˈdraɪvər/`　n.  司机
+- ride　`/raɪd/`　n./v.  搭乘；乘坐
+- catch　`/kætʃ/`　v.  赶上（车）
+- miss　`/mɪs/`　v.  错过
+- transfer　`/trænsˈfɜːr/`　v.  换乘
+- station　`/ˈsteɪʃən/`　n.  车站
+- platform　`/ˈplætfɔːrm/`　n.  站台
+- dependency　`/dɪˈpendənsi/`　n.  依赖关系
+- contingency　`/kənˈtɪndʒənsi/`　n.  应急方案
+- escalate　`/ˈeskəleɪt/`　v.  上报；升级处理
+- delegate　`/ˈdelɪɡeɪt/`　v.  分派；授权
+- streamline　`/ˈstriːmlaɪn/`　v.  精简；优化流程
+- optimize　`/ˈɑːptɪmaɪz/`　v.  优化
+- allocate　`/ˈæləkeɪt/`　v.  分配（资源）
+- ticket　`/ˈtɪkɪt/`　n.  票
+- fare　`/fer/`　n.  车费
+- rush hour　``　n.  高峰时段
+- traffic　`/ˈtræfɪk/`　n.  交通；车流
+- traffic jam　``　n.  堵车
+- stuck　`/stʌk/`　adj.  被困住；卡住
+- on time　``　phr.  准时
+- late　`/leɪt/`　adj.  迟到的；晚的
+- delay　`/dɪˈleɪ/`　n./v.  延误
+- coordinate　`/koʊˈɔːrdɪneɪt/`　v.  协调
+- facilitate　`/fəˈsɪlɪteɪt/`　v.  主持；推动
+- iterate　`/ˈɪtəreɪt/`　v.  迭代
+- implement　`/ˈɪmplɪment/`　v.  实施
+- roll out　``　phr.  推行；上线
+- ramp up　``　phr.  加速；逐步扩大
+- scale up　``　phr.  扩大规模
+- direction　`/dəˈrekʃən/`　n.  方向
+- turn left　``　phr.  左转
+- go straight　``　phr.  直走
+- intersection　`/ˌɪntərˈsekʃən/`　n.  十字路口
+- crosswalk　`/ˈkrɔːswɔːk/`　n.  人行横道
+- sidewalk　`/ˈsaɪdwɔːk/`　n.  人行道
+- map　`/mæp/`　n.  地图
+- GPS　`/ˌdʒiː piː ˈes/`　n.  导航
+- park　`/pɑːrk/`　v.  停车
+- pivot　`/ˈpɪvət/`　v.  转向；调整方向
+- prioritize　`/praɪˈɔːrətaɪz/`　v.  排优先级
+- trade-off　`/ˈtreɪd ɔːf/`　n.  取舍
+- feasible　`/ˈfiːzəbəl/`　adj.  可行的
+- robust　`/roʊˈbʌst/`　adj.  稳健的；可靠的
+- scalable　`/ˈskeɪləbəl/`　adj.  可扩展的
+- proactive　`/proʊˈæktɪv/`　adj.  主动的
+- parking lot　``　n.  停车场
+- gas station　``　n.  加油站
+- fill up　``　phr.  加满油
+- drive　`/draɪv/`　v.  开车
+- bike　`/baɪk/`　n.  自行车
+- walk　`/wɔːk/`　v.  走路
+- nearby　`/ˌnɪrˈbaɪ/`　adj./adv.  附近的
+- get on　``　phr.  上车（公交、地铁）
+- get off　``　phr.  下车
+- accountable　`/əˈkaʊntəbəl/`　adj.  对结果负责的
+- consensus　`/kənˈsensəs/`　n.  共识
+- buy-in　`/ˈbaɪ ɪn/`　n.  认同与支持
+- pushback　`/ˈpʊʃbæk/`　n.  反对意见；阻力
+- follow-through　`/ˈfɑːloʊ θruː/`　n.  落实到底
+- on the same page　``　phr.  信息一致；达成共识
+- circle back　``　phr.  稍后再谈
+- drop off　``　phr.  送到；放下
+- pick up　``　phr.  接；取
+- seat belt　``　n.  安全带
+- colleague　`/ˈkɑːliːɡ/`　n.  同事
+- teammate　`/ˈtiːmmeɪt/`　n.  团队伙伴
+- boss　`/bɔːs/`　n.  老板
+- manager　`/ˈmænɪdʒər/`　n.  经理
+- client　`/ˈklaɪənt/`　n.  客户（服务方）
+- customer　`/ˈkʌstəmər/`　n.  顾客
+- nail down　``　phr.  敲定
+- presentation　`/ˌprezənˈteɪʃən/`　n.  演示；演讲
+- slide　`/slaɪd/`　n.  幻灯片
+- deck　`/dek/`　n.  整套幻灯片
+- audience　`/ˈɔːdiəns/`　n.  听众
+- hook　`/hʊk/`　n.  吸引点；钩子
+- outline　`/ˈaʊtlaɪn/`　n./v.  提纲
+- deadline　`/ˈdedlaɪn/`　n.  截止日期
+- task　`/tæsk/`　n.  任务
+- project　`/ˈprɑːdʒekt/`　n.  项目
+- meeting　`/ˈmiːtɪŋ/`　n.  会议
+- schedule　`/ˈskedʒuːl/`　n./v.  日程；安排
+- agenda　`/əˈdʒendə/`　n.  议程
+- update　`/ˈʌpdeɪt/`　n./v.  更新；进展
+- status　`/ˈsteɪtəs/`　n.  状态
+- progress　`/ˈprɑːɡres/`　n.  进展
+- key takeaway　``　n.  核心要点
+- highlight　`/ˈhaɪlaɪt/`　v.  突出；强调
+- emphasize　`/ˈemfəsaɪz/`　v.  强调
+- illustrate　`/ˈɪləstreɪt/`　v.  说明；举例说明
+- walk through　``　phr.  逐步讲解
+- dive into　``　phr.  深入讲
+- set the stage　``　phr.  铺垫背景
+- priority　`/praɪˈɔːrəti/`　n.  优先事项
+- follow up　``　phr.  跟进
+- check in　``　phr.  问一下情况
+- touch base　``　phr.  简单沟通一下
+- loop in　``　phr.  把某人拉进沟通
+- confirm　`/kənˈfɜːrm/`　v.  确认
+- clarify　`/ˈklærəfaɪ/`　v.  澄清
+- explain　`/ɪkˈspleɪn/`　v.  解释
+- suggest　`/səˈdʒest/`　v.  建议
+- frame　`/freɪm/`　v.  框定；定调
+- transition　`/trænˈzɪʃən/`　n.  过渡
+- recap　`/ˈriːkæp/`　n./v.  回顾要点
+- wrap up　``　phr.  收尾
+- call to action　``　n.  行动号召
+- engaging　`/ɪnˈɡeɪdʒɪŋ/`　adj.  有吸引力的
+- compelling　`/kəmˈpelɪŋ/`　adj.  有说服力的
+- agree　`/əˈɡriː/`　v.  同意
+- disagree　`/ˌdɪsəˈɡriː/`　v.  不同意
+- align　`/əˈlaɪn/`　v.  达成一致
+- approve　`/əˈpruːv/`　v.  批准
+- feedback　`/ˈfiːdbæk/`　n.  反馈
+- revise　`/rɪˈvaɪz/`　v.  修改
+- draft　`/dræft/`　n./v.  草稿；起草
+- submit　`/səbˈmɪt/`　v.  提交
+- deliver　`/dɪˈlɪvər/`　v.  交付
+- concise　`/kənˈsaɪs/`　adj.  简洁的
+- articulate　`/ɑːrˈtɪkjələt/`　adj.  表达清晰的
+- pace　`/peɪs/`　n.  节奏
+- eye contact　``　n.  目光交流
+- body language　``　n.  肢体语言
+- rehearse　`/rɪˈhɜːrs/`　v.  排练
+- improvise　`/ˈɪmprəvaɪz/`　v.  即兴发挥
+- on track　``　phr.  进展顺利
+- behind schedule　``　phr.  进度落后
+- work overtime　``　phr.  加班
+- take a day off　``　phr.  请一天假
+- sick leave　``　n.  病假
+- remote　`/rɪˈmoʊt/`　adj.  远程的
+- work from home　``　phr.  居家办公
+- workload　`/ˈwɜːrkloʊd/`　n.  工作量
+- handle　`/ˈhændəl/`　v.  处理
+- jargon　`/ˈdʒɑːrɡən/`　n.  行话；术语
+- analogy　`/əˈnælədʒi/`　n.  类比
+- dry run　``　n.  预演
+- report　`/rɪˈpɔːrt/`　n./v.  报告；汇报
+- metric　`/ˈmetrɪk/`　n.  指标
+- KPI　`/ˌkeɪ piː ˈaɪ/`　n.  关键绩效指标
+- benchmark　`/ˈbentʃmɑːrk/`　n.  基准；对标
+- sort out　``　phr.  解决；理清
+- figure out　``　phr.  弄清楚
+- run into a problem　``　phr.  遇到问题
+- no worries　``　phr.  没问题
+- sounds good　``　phr.  听起来不错
+- get back to you　``　phr.  之后回复你
+- keep me posted　``　phr.  随时告诉我
+- in charge of　``　phr.  负责
+- How's it going?　``　phr.  最近怎么样？
+- baseline　`/ˈbeɪslaɪn/`　n.  基线
+- quarter　`/ˈkwɔːrtər/`　n.  季度
+- year-over-year　``　adj.  同比的
+- trajectory　`/trəˈdʒektəri/`　n.  走势；轨迹
+- surge　`/sɜːrdʒ/`　v./n.  激增
+- decline　`/dɪˈklaɪn/`　v./n.  下降
+- plateau　`/plæˈtoʊ/`　v./n.  趋于平稳
+- What's up?　``　phr.  最近怎样？/ 怎么了？
+- Long time no see　``　phr.  好久不见
+- catch up　``　phr.  叙旧；聊近况
+- hang out　``　phr.  一起玩；待在一起
+- keep in touch　``　phr.  保持联系
+- take care　``　phr.  保重
+- thanks a lot　``　phr.  非常感谢
+- no problem　``　phr.  没问题；不客气
+- you're welcome　``　phr.  不客气
+- fluctuate　`/ˈflʌktʃueɪt/`　v.  波动
+- substantial　`/səbˈstænʃəl/`　adj.  大幅的；可观的
+- marginal　`/ˈmɑːrdʒɪnəl/`　adj.  微小的
+- account for　``　phr.  占（比例）
+- attribute to　``　phr.  归因于
+- forecast　`/ˈfɔːrkæst/`　n./v.  预测
+- variance　`/ˈveriəns/`　n.  差异；偏差
+- excuse me　``　phr.  打扰一下；不好意思
+- sorry about that　``　phr.  抱歉啊
+- my bad　``　phr.  我的错（口语）
+- Do you mind　``　phr.  你介意……吗
+- would you like　``　phr.  你想要……吗
+- by the way　``　phr.  顺便说一句
+- anyway　`/ˈeniweɪ/`　adv.  总之；不管怎样
+- actually　`/ˈæktʃuəli/`　adv.  其实
+- for sure　``　phr.  当然；肯定
+- driver　`/ˈdraɪvər/`　n.  驱动因素
+- root cause　``　n.  根本原因
+- actionable　`/ˈækʃənəbəl/`　adj.  可执行的
+- caveat　`/ˈkæviæt/`　n.  注意事项；前提
+- bottom line　``　n.  核心结论
+- going forward　``　phr.  今后
+- panel　`/ˈpænəl/`　n.  座谈小组；论坛
+- definitely　`/ˈdefɪnətli/`　adv.  肯定；绝对
+- sounds like a plan　``　phr.  就这么定
+- I'm in　``　phr.  我加入
+- count me in　``　phr.  算我一个
+- It's up to you　``　phr.  你决定
+- whatever works　``　phr.  怎么方便怎么来
+- no big deal　``　phr.  没什么大不了
+- never mind　``　phr.  算了；没事
+- I see　``　phr.  我明白了
+- moderator　`/ˈmɑːdəreɪtər/`　n.  主持人
+- participant　`/pɑːrˈtɪsɪpənt/`　n.  参与者
+- perspective　`/pərˈspektɪv/`　n.  视角
+- standpoint　`/ˈstændpɔɪnt/`　n.  立场；角度
+- insight　`/ˈɪnsaɪt/`　n.  洞察
+- constructive　`/kənˈstrʌktɪv/`　adj.  建设性的
+- candid　`/ˈkændɪd/`　adj.  坦率的
+- got it　``　phr.  懂了
+- fair enough　``　phr.  有道理；可以接受
+- that makes sense　``　phr.  说得通
+- to be honest　``　phr.  说实话
+- kind of　``　phr.  有点；算是
+- pretty much　``　phr.  差不多；基本上
+- see you around　``　phr.  回头见
+- nuance　`/ˈnuːɑːns/`　n.  细微差别
+- counterargument　`/ˈkaʊntərˌɑːrɡjəmənt/`　n.  反方论点
+- acknowledge　`/əkˈnɑːlɪdʒ/`　v.  承认；认可
+- elaborate　`/ɪˈlæbəreɪt/`　v.  详细阐述
+- chime in　``　phr.  插话；补充
+- weigh in　``　phr.  发表意见
+- play devil's advocate　``　phr.  故意唱反调以检验观点
+- common ground　``　n.  共同点
+- open floor　``　n.  自由发言
+- follow-up question　``　n.  追问
+- with that said　``　phr.  话虽如此
