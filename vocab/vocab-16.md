@@ -1,0 +1,117 @@
+# 第 16 期 · 复盘 · 第 2 周
+
+- 覆盖：第 9、10、11、12、13、14、15 期，共 112 词
+- 时长：15 分 13 秒
+
+- coat　`/koʊt/`　n.  大衣
+- sweater　`/ˈswetər/`　n.  毛衣
+- jeans　`/dʒiːnz/`　n.  牛仔裤
+- pants　`/pænts/`　n.  裤子
+- shoes　`/ʃuːz/`　n.  鞋
+- sneakers　`/ˈsniːkərz/`　n.  运动鞋
+- socks　`/sɑːks/`　n.  袜子
+- cap　`/kæp/`　n.  帽子（鸭舌帽）
+- scarf　`/skɑːrf/`　n.  围巾
+- maintenance　`/ˈmeɪntənəns/`　n.  维护；维修
+- amenity　`/əˈmenəti/`　n.  配套设施
+- complex　`/ˈkɑːmpleks/`　n.  小区；建筑群
+- proximity　`/prɑːkˈsɪməti/`　n.  邻近；接近
+- within walking distance　``　phr.  步行可达
+- vibrant　`/ˈvaɪbrənt/`　adj.  有活力的
+- residential　`/ˌrezɪˈdenʃəl/`　adj.  住宅的
+- dress　`/dres/`　n.  连衣裙
+- suit　`/suːt/`　n.  西装
+- tie　`/taɪ/`　n.  领带
+- laundry　`/ˈlɔːndri/`　n.  要洗的衣物；洗衣
+- iron　`/ˈaɪərn/`　v.  熨
+- stain　`/steɪn/`　n.  污渍
+- refund　`/ˈriːfʌnd/`　n./v.  退款
+- exchange　`/ɪksˈtʃeɪndʒ/`　v.  换货
+- receipt　`/rɪˈsiːt/`　n.  收据
+- upscale　`/ˈʌpskeɪl/`　adj.  高档的
+- run-down　`/ˌrʌnˈdaʊn/`　adj.  破旧的
+- renovate　`/ˈrenəveɪt/`　v.  翻新；装修
+- clutter　`/ˈklʌtər/`　n.  杂物；凌乱
+- declutter　`/diːˈklʌtər/`　v.  清理杂物
+- storage　`/ˈstɔːrɪdʒ/`　n.  储物空间
+- insulation　`/ˌɪnsəˈleɪʃən/`　n.  隔音；保温
+- on sale　``　phr.  打折
+- shop online　``　phr.  网购
+- apartment　`/əˈpɑːrtmənt/`　n.  公寓
+- flat　`/flæt/`　n.  公寓（英式）
+- rent　`/rent/`　n./v.  租金；租
+- landlord　`/ˈlændlɔːrd/`　n.  房东
+- tenant　`/ˈtenənt/`　n.  租客
+- roommate　`/ˈruːmmeɪt/`　n.  室友
+- lease　`/liːs/`　n.  租约
+- ventilation　`/ˌventəˈleɪʃən/`　n.  通风
+- plumbing　`/ˈplʌmɪŋ/`　n.  管道系统
+- property management　``　n.  物业
+- sublet　`/ˈsʌblet/`　v.  转租
+- housewarming　`/ˈhaʊswɔːrmɪŋ/`　n.  乔迁聚会
+- settle in　``　phr.  安顿下来；适应
+- noise complaint　``　n.  噪音投诉
+- deposit　`/dɪˈpɑːzɪt/`　n.  押金
+- utilities　`/juːˈtɪlətiz/`　n.  水电等费用
+- furniture　`/ˈfɜːrnɪtʃər/`　n.  家具
+- sofa　`/ˈsoʊfə/`　n.  沙发
+- bed　`/bed/`　n.  床
+- mattress　`/ˈmætrəs/`　n.  床垫
+- closet　`/ˈklɑːzɪt/`　n.  衣柜
+- shelf　`/ʃelf/`　n.  架子
+- drawer　`/drɔːr/`　n.  抽屉
+- itinerary　`/aɪˈtɪnəreri/`　n.  行程安排
+- layover　`/ˈleɪoʊvər/`　n.  中转停留
+- boarding pass　``　n.  登机牌
+- carry-on　`/ˈkæri ɑːn/`　n.  随身行李
+- check in luggage　``　phr.  托运行李
+- customs　`/ˈkʌstəmz/`　n.  海关
+- terminal　`/ˈtɜːrmɪnəl/`　n.  航站楼
+- desk　`/desk/`　n.  书桌
+- lamp　`/læmp/`　n.  台灯
+- curtain　`/ˈkɜːrtən/`　n.  窗帘
+- carpet　`/ˈkɑːrpɪt/`　n.  地毯
+- balcony　`/ˈbælkəni/`　n.  阳台
+- elevator　`/ˈelɪveɪtər/`　n.  电梯
+- stairs　`/sterz/`　n.  楼梯
+- neighbor　`/ˈneɪbər/`　n.  邻居
+- neighborhood　`/ˈneɪbərhʊd/`　n.  街区；社区
+- jet lag　``　n.  时差反应
+- shuttle　`/ˈʃʌtəl/`　n.  摆渡车；班车
+- round trip　``　n.  往返行程
+- one-way　`/ˌwʌnˈweɪ/`　adj.  单程的
+- reimburse　`/ˌriːɪmˈbɜːrs/`　v.  报销
+- expense report　``　n.  报销单
+- accommodation　`/əˌkɑːməˈdeɪʃən/`　n.  住宿
+- move in　``　phr.  搬进来
+- move out　``　phr.  搬走
+- tidy up　``　phr.  收拾整洁
+- clean up　``　phr.  打扫
+- trash　`/træʃ/`　n.  垃圾
+- take out the trash　``　phr.  倒垃圾
+- fix　`/fɪks/`　v.  修理
+- plumber　`/ˈplʌmər/`　n.  水管工
+- leak　`/liːk/`　v./n.  漏水
+- carpool　`/ˈkɑːrpuːl/`　v./n.  拼车
+- congestion　`/kənˈdʒestʃən/`　n.  拥堵
+- toll　`/toʊl/`　n.  过路费
+- detour　`/ˈdiːtʊr/`　n.  绕行路线
+- pull over　``　phr.  靠边停车
+- give someone a lift　``　phr.  捎某人一程
+- en route　`/ɑːn ˈruːt/`　phr.  在途中
+- air conditioning　`/er kənˈdɪʃənɪŋ/`　n.  空调
+- heater　`/ˈhiːtər/`　n.  暖气；加热器
+- power outage　``　n.  停电
+- wifi　`/ˈwaɪfaɪ/`　n.  无线网
+- quiet　`/ˈkwaɪət/`　adj.  安静的
+- noisy　`/ˈnɔɪzi/`　adj.  吵的
+- commute　`/kəˈmjuːt/`　v./n.  通勤
+- subway　`/ˈsʌbweɪ/`　n.  地铁
+- bus　`/bʌs/`　n.  公交车
+- get around　``　phr.  出行；四处走动
+- stakeholder　`/ˈsteɪkhoʊldər/`　n.  利益相关方
+- deliverable　`/dɪˈlɪvərəbəl/`　n.  交付物
+- milestone　`/ˈmaɪlstoʊn/`　n.  里程碑
+- scope　`/skoʊp/`　n.  范围
+- bandwidth　`/ˈbændwɪdθ/`　n.  精力；可投入的时间
+- bottleneck　`/ˈbɑːtəlnek/`　n.  瓶颈
