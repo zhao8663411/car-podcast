@@ -1,0 +1,28 @@
+{
+  "no": 19,
+  "type": "lesson",
+  "title": "行 / 工作",
+  "words": [
+    "direction",
+    "turn left",
+    "go straight",
+    "intersection",
+    "crosswalk",
+    "sidewalk",
+    "map",
+    "GPS",
+    "park",
+    "pivot",
+    "prioritize",
+    "trade-off",
+    "feasible",
+    "robust",
+    "scalable",
+    "proactive"
+  ],
+  "count": 16,
+  "mp3": "vocab-19.mp3",
+  "bytes": 3822140,
+  "duration": 636.9,
+  "voice": "en-US-JennyNeural"
+}
