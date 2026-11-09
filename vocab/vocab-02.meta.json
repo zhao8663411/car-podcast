@@ -1,0 +1,28 @@
+{
+  "no": 2,
+  "type": "lesson",
+  "title": "吃",
+  "words": [
+    "meal",
+    "takeout",
+    "delivery",
+    "order",
+    "menu",
+    "special",
+    "recommend",
+    "try",
+    "taste",
+    "portion",
+    "hearty",
+    "bland",
+    "savory",
+    "crispy",
+    "tender",
+    "rich"
+  ],
+  "count": 16,
+  "mp3": "vocab-02.mp3",
+  "bytes": 3386108,
+  "duration": 564.2,
+  "voice": "en-US-AndrewNeural"
+}
