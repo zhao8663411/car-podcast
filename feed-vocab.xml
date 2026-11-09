@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>实用英语词汇 · 双阶进阶</title>
-    <link>https://cdn.jsdelivr.net/gh/zhao8663411/car-podcast@main</link>
+    <link>https://gcore.jsdelivr.net/gh/zhao8663411/car-podcast@main</link>
     <description>450 个生活与职场高频词，每期 16 个：初级 9 + 高级 7，含搭配拓展与场景例句。</description>
     <language>zh-cn</language>
     <itunes:author>AutoEnglish</itunes:author>
@@ -11,7 +11,7 @@
     <item>
       <title>第 01 期 · 吃</title>
       <description>16 词：eat、hungry、starving、full、thirsty、breakfast、lunch、dinner</description>
-      <enclosure url="https://cdn.jsdelivr.net/gh/zhao8663411/car-podcast@main/vocab/vocab-01.mp3" length="3756188" type="audio/mpeg"/>
+      <enclosure url="https://gcore.jsdelivr.net/gh/zhao8663411/car-podcast@main/vocab/vocab-01.mp3" length="3756188" type="audio/mpeg"/>
       <guid isPermaLink="false">vocab-01</guid>
       <pubDate>Sat, 07 Nov 2026 23:00:00 +0000</pubDate>
       <itunes:duration>10:26</itunes:duration>
@@ -21,7 +21,7 @@
     <item>
       <title>第 02 期 · 吃</title>
       <description>16 词：meal、takeout、delivery、order、menu、special、recommend、try</description>
-      <enclosure url="https://cdn.jsdelivr.net/gh/zhao8663411/car-podcast@main/vocab/vocab-02.mp3" length="3386108" type="audio/mpeg"/>
+      <enclosure url="https://gcore.jsdelivr.net/gh/zhao8663411/car-podcast@main/vocab/vocab-02.mp3" length="3386108" type="audio/mpeg"/>
       <guid isPermaLink="false">vocab-02</guid>
       <pubDate>Fri, 06 Nov 2026 23:00:00 +0000</pubDate>
       <itunes:duration>09:24</itunes:duration>
@@ -31,7 +31,7 @@
     <item>
       <title>第 03 期 · 吃</title>
       <description>16 词：delicious、spicy、sweet、salty、fresh、plain、vegetarian、allergic</description>
-      <enclosure url="https://cdn.jsdelivr.net/gh/zhao8663411/car-podcast@main/vocab/vocab-03.mp3" length="3791324" type="audio/mpeg"/>
+      <enclosure url="https://gcore.jsdelivr.net/gh/zhao8663411/car-podcast@main/vocab/vocab-03.mp3" length="3791324" type="audio/mpeg"/>
       <guid isPermaLink="false">vocab-03</guid>
       <pubDate>Thu, 05 Nov 2026 23:00:00 +0000</pubDate>
       <itunes:duration>10:32</itunes:duration>
