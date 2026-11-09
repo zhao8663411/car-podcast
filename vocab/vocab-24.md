@@ -1,0 +1,117 @@
+# 第 24 期 · 复盘 · 第 3 周
+
+- 覆盖：第 17、18、19、20、21、22、23 期，共 112 词
+- 时长：15 分 41 秒
+
+- train　`/treɪn/`　n.  火车
+- taxi　`/ˈtæksi/`　n.  出租车
+- driver　`/ˈdraɪvər/`　n.  司机
+- ride　`/raɪd/`　n./v.  搭乘；乘坐
+- catch　`/kætʃ/`　v.  赶上（车）
+- miss　`/mɪs/`　v.  错过
+- transfer　`/trænsˈfɜːr/`　v.  换乘
+- station　`/ˈsteɪʃən/`　n.  车站
+- platform　`/ˈplætfɔːrm/`　n.  站台
+- dependency　`/dɪˈpendənsi/`　n.  依赖关系
+- contingency　`/kənˈtɪndʒənsi/`　n.  应急方案
+- escalate　`/ˈeskəleɪt/`　v.  上报；升级处理
+- delegate　`/ˈdelɪɡeɪt/`　v.  分派；授权
+- streamline　`/ˈstriːmlaɪn/`　v.  精简；优化流程
+- optimize　`/ˈɑːptɪmaɪz/`　v.  优化
+- allocate　`/ˈæləkeɪt/`　v.  分配（资源）
+- ticket　`/ˈtɪkɪt/`　n.  票
+- fare　`/fer/`　n.  车费
+- rush hour　``　n.  高峰时段
+- traffic　`/ˈtræfɪk/`　n.  交通；车流
+- traffic jam　``　n.  堵车
+- stuck　`/stʌk/`　adj.  被困住；卡住
+- on time　``　phr.  准时
+- late　`/leɪt/`　adj.  迟到的；晚的
+- delay　`/dɪˈleɪ/`　n./v.  延误
+- coordinate　`/koʊˈɔːrdɪneɪt/`　v.  协调
+- facilitate　`/fəˈsɪlɪteɪt/`　v.  主持；推动
+- iterate　`/ˈɪtəreɪt/`　v.  迭代
+- implement　`/ˈɪmplɪment/`　v.  实施
+- roll out　``　phr.  推行；上线
+- ramp up　``　phr.  加速；逐步扩大
+- scale up　``　phr.  扩大规模
+- direction　`/dəˈrekʃən/`　n.  方向
+- turn left　``　phr.  左转
+- go straight　``　phr.  直走
+- intersection　`/ˌɪntərˈsekʃən/`　n.  十字路口
+- crosswalk　`/ˈkrɔːswɔːk/`　n.  人行横道
+- sidewalk　`/ˈsaɪdwɔːk/`　n.  人行道
+- map　`/mæp/`　n.  地图
+- GPS　`/ˌdʒiː piː ˈes/`　n.  导航
+- park　`/pɑːrk/`　v.  停车
+- pivot　`/ˈpɪvət/`　v.  转向；调整方向
+- prioritize　`/praɪˈɔːrətaɪz/`　v.  排优先级
+- trade-off　`/ˈtreɪd ɔːf/`　n.  取舍
+- feasible　`/ˈfiːzəbəl/`　adj.  可行的
+- robust　`/roʊˈbʌst/`　adj.  稳健的；可靠的
+- scalable　`/ˈskeɪləbəl/`　adj.  可扩展的
+- proactive　`/proʊˈæktɪv/`　adj.  主动的
+- parking lot　``　n.  停车场
+- gas station　``　n.  加油站
+- fill up　``　phr.  加满油
+- drive　`/draɪv/`　v.  开车
+- bike　`/baɪk/`　n.  自行车
+- walk　`/wɔːk/`　v.  走路
+- nearby　`/ˌnɪrˈbaɪ/`　adj./adv.  附近的
+- get on　``　phr.  上车（公交、地铁）
+- get off　``　phr.  下车
+- accountable　`/əˈkaʊntəbəl/`　adj.  对结果负责的
+- consensus　`/kənˈsensəs/`　n.  共识
+- buy-in　`/ˈbaɪ ɪn/`　n.  认同与支持
+- pushback　`/ˈpʊʃbæk/`　n.  反对意见；阻力
+- follow-through　`/ˈfɑːloʊ θruː/`　n.  落实到底
+- on the same page　``　phr.  信息一致；达成共识
+- circle back　``　phr.  稍后再谈
+- drop off　``　phr.  送到；放下
+- pick up　``　phr.  接；取
+- seat belt　``　n.  安全带
+- colleague　`/ˈkɑːliːɡ/`　n.  同事
+- teammate　`/ˈtiːmmeɪt/`　n.  团队伙伴
+- boss　`/bɔːs/`　n.  老板
+- manager　`/ˈmænɪdʒər/`　n.  经理
+- client　`/ˈklaɪənt/`　n.  客户（服务方）
+- customer　`/ˈkʌstəmər/`　n.  顾客
+- nail down　``　phr.  敲定
+- presentation　`/ˌprezənˈteɪʃən/`　n.  演示；演讲
+- slide　`/slaɪd/`　n.  幻灯片
+- deck　`/dek/`　n.  整套幻灯片
+- audience　`/ˈɔːdiəns/`　n.  听众
+- hook　`/hʊk/`　n.  吸引点；钩子
+- outline　`/ˈaʊtlaɪn/`　n./v.  提纲
+- deadline　`/ˈdedlaɪn/`　n.  截止日期
+- task　`/tæsk/`　n.  任务
+- project　`/ˈprɑːdʒekt/`　n.  项目
+- meeting　`/ˈmiːtɪŋ/`　n.  会议
+- schedule　`/ˈskedʒuːl/`　n./v.  日程；安排
+- agenda　`/əˈdʒendə/`　n.  议程
+- update　`/ˈʌpdeɪt/`　n./v.  更新；进展
+- status　`/ˈsteɪtəs/`　n.  状态
+- progress　`/ˈprɑːɡres/`　n.  进展
+- key takeaway　``　n.  核心要点
+- highlight　`/ˈhaɪlaɪt/`　v.  突出；强调
+- emphasize　`/ˈemfəsaɪz/`　v.  强调
+- illustrate　`/ˈɪləstreɪt/`　v.  说明；举例说明
+- walk through　``　phr.  逐步讲解
+- dive into　``　phr.  深入讲
+- set the stage　``　phr.  铺垫背景
+- priority　`/praɪˈɔːrəti/`　n.  优先事项
+- follow up　``　phr.  跟进
+- check in　``　phr.  问一下情况
+- touch base　``　phr.  简单沟通一下
+- loop in　``　phr.  把某人拉进沟通
+- confirm　`/kənˈfɜːrm/`　v.  确认
+- clarify　`/ˈklærəfaɪ/`　v.  澄清
+- explain　`/ɪkˈspleɪn/`　v.  解释
+- suggest　`/səˈdʒest/`　v.  建议
+- frame　`/freɪm/`　v.  框定；定调
+- transition　`/trænˈzɪʃən/`　n.  过渡
+- recap　`/ˈriːkæp/`　n./v.  回顾要点
+- wrap up　``　phr.  收尾
+- call to action　``　n.  行动号召
+- engaging　`/ɪnˈɡeɪdʒɪŋ/`　adj.  有吸引力的
+- compelling　`/kəmˈpelɪŋ/`　adj.  有说服力的
