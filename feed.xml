@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>汽车行业英语播客</title>
+    <link>http://localhost:8001/</link>
+    <description>每天早上更新，汽车行业新闻 + 双语英语学习，A2–B1 难度。</description>
+    <language>zh-cn</language>
+    <itunes:author>AutoEnglish</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>示范期 · 交付下滑与超豪华新车</title>
+      <description>劳斯莱斯今年前九个月交付三千五百九十二辆，同比下降百分之十二点四，中国和欧洲需求疲软。这家隶属于宝马的英国品牌去年同期卖</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/demo/car-podcast@main/2026-11/car-podcast-2026-11-08.mp3" length="6710204" type="audio/mpeg"/>
+      <guid isPermaLink="false">car-podcast-2026-11-08</guid>
+      <pubDate>Sat, 07 Nov 2026 23:10:00 +0000</pubDate>
+      <itunes:duration>18:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>示范期 · 交付下滑与超豪华新车（纯英文·回程版）</title>
+      <description>劳斯莱斯今年前九个月交付三千五百九十二辆，同比下降百分之十二点四，中国和欧洲需求疲软。这家隶属于宝马的英国品牌去年同期卖</description>
+      <enclosure url="https://cdn.jsdelivr.net/gh/demo/car-podcast@main/2026-11/car-podcast-2026-11-08-en.mp3" length="2317052" type="audio/mpeg"/>
+      <guid isPermaLink="false">car-podcast-2026-11-08-en</guid>
+      <pubDate>Sat, 07 Nov 2026 23:10:00 +0000</pubDate>
+      <itunes:duration>06:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
