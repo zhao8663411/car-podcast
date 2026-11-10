@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>汽车行业英语播客 · 新闻</title>
+    <link>http://localhost:8001/</link>
+    <description>汽车行业新闻 + 双语英语学习，A2–B1 难度，每期 6 条新闻。</description>
+    <language>zh-cn</language>
+    <itunes:author>AutoEnglish</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>本田押注混动，奔驰说燃油机还有十年</title>
+      <description>本田将向混合动力投入三十亿美元，同时放慢在美国的电动车计划。</description>
+      <enclosure url="https://zhao8663411.github.io/car-podcast/news/2026-11/car-podcast-2026-11-10.mp3" length="3466316" type="audio/mpeg"/>
+      <guid isPermaLink="false">car-podcast-2026-11-10</guid>
+      <pubDate>Mon, 09 Nov 2026 23:10:00 +0000</pubDate>
+      <itunes:duration>09:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>本田押注混动，奔驰说燃油机还有十年（纯英文·回程版）</title>
+      <description>本田将向混合动力投入三十亿美元，同时放慢在美国的电动车计划。</description>
+      <enclosure url="https://zhao8663411.github.io/car-podcast/news/2026-11/car-podcast-2026-11-10-en.mp3" length="1781228" type="audio/mpeg"/>
+      <guid isPermaLink="false">car-podcast-2026-11-10-en</guid>
+      <pubDate>Mon, 09 Nov 2026 23:10:00 +0000</pubDate>
+      <itunes:duration>04:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>示范期 · 交付下滑与超豪华新车</title>
+      <description>劳斯莱斯今年前九个月交付三千五百九十二辆，同比下降百分之十二点四，中国和欧洲需求疲软。这家隶属于宝马的英国品牌去年同期卖</description>
+      <enclosure url="https://zhao8663411.github.io/car-podcast/news/2026-11/car-podcast-2026-11-08.mp3" length="6710204" type="audio/mpeg"/>
+      <guid isPermaLink="false">car-podcast-2026-11-08</guid>
+      <pubDate>Sat, 07 Nov 2026 23:10:00 +0000</pubDate>
+      <itunes:duration>18:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>示范期 · 交付下滑与超豪华新车（纯英文·回程版）</title>
+      <description>劳斯莱斯今年前九个月交付三千五百九十二辆，同比下降百分之十二点四，中国和欧洲需求疲软。这家隶属于宝马的英国品牌去年同期卖</description>
+      <enclosure url="https://zhao8663411.github.io/car-podcast/news/2026-11/car-podcast-2026-11-08-en.mp3" length="2317052" type="audio/mpeg"/>
+      <guid isPermaLink="false">car-podcast-2026-11-08-en</guid>
+      <pubDate>Sat, 07 Nov 2026 23:10:00 +0000</pubDate>
+      <itunes:duration>06:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
