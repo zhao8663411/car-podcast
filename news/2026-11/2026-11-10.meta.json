@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-10",
+  "title": "本田押注混动，奔驰说燃油机还有十年",
+  "description": "本田将向混合动力投入三十亿美元，同时放慢在美国的电动车计划。",
+  "mp3": "car-podcast-2026-11-10.mp3",
+  "bytes": 3466316,
+  "duration": 577.6,
+  "voice": "en-US-JennyNeural",
+  "en_mp3": "car-podcast-2026-11-10-en.mp3",
+  "en_bytes": 1781228,
+  "en_duration": 296.8,
+  "keywords": [
+    "hybrid",
+    "put into",
+    "slow down",
+    "petrol",
+    "at least",
+    "stay",
+    "capacity",
+    "hold",
+    "original",
+    "concept car",
+    "rear",
+    "look like",
+    "dispute",
+    "lead to",
+    "revenue",
+    "ship",
+    "unit"
+  ],
+  "chapters": [
+    {
+      "start": 0.0,
+      "title": "开场"
+    },
+    {
+      "start": 18.8,
+      "title": "战略转向"
+    },
+    {
+      "start": 173.9,
+      "title": "电池与产品"
+    },
+    {
+      "start": 324.6,
+      "title": "公司与行业"
+    },
+    {
+      "start": 484.5,
+      "title": "精听复习"
+    },
+    {
+      "start": 577.6,
+      "title": "结尾"
+    }
+  ]
+}
